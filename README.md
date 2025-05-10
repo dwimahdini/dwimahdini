@@ -1,31 +1,25 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Dwi+Mahdini;Fullstack+Developer!&center=true&size=25">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Dwi+Mahdini;Fullstack+Developer+%F0%9F%92%BB;Cat+Lover+%F0%9F%90%88;Always+Learning!&center=true&size=24">
 </h1>
 
-<p align="center">💻 Fullstack Developer | 🌐 Web & Mobile Focused | 🏡 Indonesia</p>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
 </p>
 
 ---
 
-### 👩‍💻 About Me
+### 👩‍💻 Tentang Saya
 
-Hi! I'm **Dwi Mahdini** – a passionate fullstack developer who enjoys mixing design, code, and caffeine.  
-I love crafting web & mobile experiences that feel alive 💡
+Halo! Saya **Dwi Mahdini**, seorang pengembang fullstack dari Indonesia 🇮🇩  
+Saya suka menggabungkan desain, kode, dan secangkir kopi untuk menciptakan pengalaman web & mobile yang menarik.
 
-- 🌱 Currently learning **Jetpack Compose + ML**
-- 💡 Solving real-world problems through code
-- 🤖 I dream in JavaScript and Kotlin
-
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
-</p>
+- 🌱 Saat ini belajar **Jetpack Compose + Machine Learning**
+- 💡 Menyelesaikan masalah dunia nyata melalui kode
+- 🐱 Pecinta kucing dan penggemar animasi lucu
 
 ---
 
-### ⚙️ Tech Stack I Play With
+### 🛠️ Teknologi yang Saya Gunakan
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,postgres,firebase,androidstudio,kotlin,python,fastapi,java" />
@@ -33,7 +27,7 @@ I love crafting web & mobile experiences that feel alive 💡
 
 ---
 
-### 📈 GitHub Stats
+### 📊 Statistik GitHub Saya
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dwimahdini&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
@@ -43,23 +37,24 @@ I love crafting web & mobile experiences that feel alive 💡
 
 ---
 
-### 🚀 Currently Exploring
+### 🚀 Saat Ini Sedang Menjelajahi
 
 - 📱 Jetpack Compose + Kotlin
-- 📊 Python for Data Viz
-- 🧠 Machine Learning Projects
-- 🎨 UI/UX & Figma prototyping
+- 📊 Visualisasi Data dengan Python
+- 🤖 Proyek Machine Learning yang Menyenangkan
+- 🎨 Prinsip UI/UX & Prototyping dengan Figma
 
 ---
 
-### 🐾 Animal Coding Buddies
+### 🐾 Teman Koding Berkaki Empat
 
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100"/>
   <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" width="100"/>
 </p>
 
-> Kucing, Alpukat Coklat, Capucinno, dan seorang Princess 😺💻
+> Kucing, Alpukat Coklat, dan Capucinno = Boost Coding Mood!
 
 ---
 
@@ -72,15 +67,6 @@ I love crafting web & mobile experiences that feel alive 💡
 
 ---
 
-### 🧭 Goals
-
-- 🚀 Master Android + Web Dev
-- 💼 Contribute to open source
-- 🤝 Build amazing projects with other devs
-- 🌱 Keep learning every single day
-
----
-
 ### 🌀 Extra Visual Vibes
 
 <p align="center">
@@ -90,7 +76,7 @@ I love crafting web & mobile experiences that feel alive 💡
 
 ---
 
-### 💬 Thank You!
+### 💬 Terima Kasih Sudah Mampir!
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+GitHub!;Check+out+my+repos+below+and+say+hi!">
