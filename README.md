@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dwi Mahdini</h1>
 <p align="center">💻 Passionate Fullstack Developer | 🎯 Web & Mobile Focused | 📍 Indonesia</p>
 
-<p align="center">
-  <a href="https://instagram.com/eja_reza5"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/m-novryanda-reza/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://facebook.com/novryanda.reza.7"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-</p>
-
 ---
 
 ### 👨‍💻 About Me
