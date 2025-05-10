@@ -4,6 +4,10 @@
 
 <p align="center">💻 Fullstack Developer | 🌐 Web & Mobile Focused | 🇮🇩 Indonesia</p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+</p>
+
 ---
 
 ### 👩‍💻 About Me
@@ -14,6 +18,10 @@ I specialize in building web and mobile applications with clean code, great UI, 
 - 🌱 Currently learning **Jetpack Compose, Kotlin & ML**
 - 💡 Love building things that solve real-world problems
 - ⚡ Fun fact: I love code so much, even my dreams are in syntax!
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250"/>
+</p>
 
 ---
 
@@ -44,6 +52,18 @@ I specialize in building web and mobile applications with clean code, great UI, 
 
 ---
 
+### 🐾 Coding Companion Corner
+
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/5xaOcLTbQaxjVjJp6Ba/giphy.gif" width="100"/>
+</p>
+
+> *Sometimes all you need is a cat on your keyboard to fix the bug.*
+
+---
+
 ### ✨ Fun Developer Facts
 
 - 🧠 Loves solving bugs more than Sudoku
@@ -64,4 +84,8 @@ I specialize in building web and mobile applications with clean code, great UI, 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+GitHub!;Feel+free+to+check+my+repos+below.">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vR9O2vV6n0kTt1W/giphy.gif" width="200"/>
 </p>
