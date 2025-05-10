@@ -1,29 +1,67 @@
-<h1 align="center">Hey there 👋, I'm <span style="color:#f97316;">Dwi Mahdini</span></h1>
-<p align="center">💻 Fullstack Developer | 🌐 Web & Mobile Enthusiast | 🇮🇩 Indonesia</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Dwi+Mahdini;A+Fullstack+Developer;Always+Learning+Something+New!&center=true&size=25">
+</h1>
+
+<p align="center">💻 Fullstack Developer | 🌐 Web & Mobile Focused | 🇮🇩 Indonesia</p>
+
+---
+
+### 👩‍💻 About Me
+
+Hi! I'm **Dwi Mahdini**, a passionate fullstack developer from Indonesia 🇮🇩  
+I specialize in building web and mobile applications with clean code, great UI, and a touch of ✨ developer love ✨
+
+- 🌱 Currently learning **Jetpack Compose, Kotlin & ML**
+- 💡 Love building things that solve real-world problems
+- ⚡ Fun fact: I love code so much, even my dreams are in syntax!
+
+---
+
+### 🛠 Tech Stack
 
 <p align="center">
-  <a href="https://instagram.com/eja_reza5"><img src="https://img.shields.io/badge/@eja_reza5-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.linkedin.com/in/m-novryanda-reza/"><img src="https://img.shields.io/badge/M Novryanda Reza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://facebook.com/novryanda.reza.7"><img src="https://img.shields.io/badge/Novryanda Reza-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,postgres,firebase,androidstudio,kotlin,python,fastapi,java" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### 📊 GitHub Stats
 
-> I'm a passionate developer who loves turning ideas into reality through code. Whether it's building web interfaces, mobile apps, or APIs — I enjoy the whole process (even debugging... sometimes 😅).
-
-- 🔭 Currently working on: **Mobile & Web Projects**
-- 🧠 Exploring: **Jetpack Compose, Kotlin, and Machine Learning**
-- ⚡ Fun fact: I debug better with coffee and good music 🎧
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=novryanda&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=novryanda&theme=tokyonight&hide_border=false" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novryanda&layout=compact&theme=tokyonight&hide_border=false" height="170"/>
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+### 🚀 Currently Exploring
 
-```ts
-Web      : React, Next.js, Tailwind CSS, JavaScript, HTML/CSS  
-Backend  : Node.js, Express.js, FastAPI, Firebase  
-Mobile   : Android (Kotlin, Jetpack Compose)  
-Database : PostgreSQL, Firebase, SQLite (Room)  
-Other    : Git, GitHub, Figma, Python
+- 📱 Jetpack Compose + Kotlin
+- 📈 Data Visualization with Python
+- 🤖 Fun Machine Learning Projects
+- 🎨 UI/UX Principles & Prototyping
+
+---
+
+### ✨ Fun Developer Facts
+
+- 🧠 Loves solving bugs more than Sudoku
+- 🎧 Codes better with background music (bonus point for lo-fi or anime OSTs)
+- 🥷 Secret superpower: turning caffeine into clean code
+- 💬 Favorite quote: *"First, solve the problem. Then, write the code." – John Johnson*
+
+---
+
+### 🧭 Goals
+
+- 📌 Master cross-platform development (Android + Web)
+- 🚀 Build apps that help people
+- 👥 Collaborate with other awesome devs
+- 💼 Contribute to open source (coming soon!)
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+GitHub!;Feel+free+to+check+my+repos+below.">
+</p>
