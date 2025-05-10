@@ -28,9 +28,9 @@ I specialize in building web and mobile applications with clean code, great UI, 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=novryanda&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=novryanda&theme=tokyonight&hide_border=false" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novryanda&layout=compact&theme=tokyonight&hide_border=false" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dwimahdini&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dwimahdini&theme=tokyonight&hide_border=false" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwimahdini&layout=compact&theme=tokyonight&hide_border=false" height="170"/>
 </p>
 
 ---
