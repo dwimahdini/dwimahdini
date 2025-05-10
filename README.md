@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Dwi+Mahdini;Fullstack+Developer+from+Indonesia;Coding+is+my+second+language!&center=true&size=25">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Dwi+Mahdini;Fullstack+Developer!&center=true&size=25">
 </h1>
 
 <p align="center">💻 Fullstack Developer | 🌐 Web & Mobile Focused | 🏡 Indonesia</p>
