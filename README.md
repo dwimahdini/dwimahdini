@@ -57,9 +57,6 @@ I love crafting web & mobile experiences that feel alive 💡
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100"/>
   <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/5xaOcLTbQaxjVjJp6Ba/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/l0MYGBzP5bq8hB1Qs/giphy.gif" width="100"/>
 </p>
 
 > Kucing, Alpukat Coklat, Capucinno, dan seorang Princess 😺💻
