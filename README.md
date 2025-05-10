@@ -15,7 +15,7 @@ Saya suka menggabungkan desain, kode, dan secangkir kopi untuk menciptakan penga
 
 - 🌱 Saat ini belajar **Jetpack Compose + Machine Learning**
 - 💡 Menyelesaikan masalah dunia nyata melalui kode
-- 🐱 Pecinta kucing dan penggemar animasi lucu
+- 🐱 Pecinta kucing, alpukat coklat, dan seorang princess
 
 ---
 
